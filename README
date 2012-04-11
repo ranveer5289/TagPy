@@ -1,0 +1,8 @@
+A very basic python script to read and edit mp3 tags like artistname,album,track.
+Currently supports id3v1 tags only.
+
+In Future:
+
+1) Add support for id3v2 tags.
+
+
